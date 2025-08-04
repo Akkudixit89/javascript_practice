@@ -18,8 +18,13 @@ symbol
 */
 //typeof
 console.log(typeof "789");
+//or
+console.log(typeof(67));
+console.log(typeof(6.7));
+
 console.log(typeof null);     //output=object
 console.log(typeof undefined);        //output=undefined
+
 
 
 
